@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @massitashakori
-- 👀 I’m interested in Web programming and design
+- 👀 like opening/reviewing PR
 - 🌱 I’m currently learning Blockchain programming, Solidity
-- 💞️ I’m looking to collaborate on web programming and design
+- 💞️ I’m looking to collaborate more on react and typescript
 - 📫 How to reach me: massi.tashakori@gmail.com
 
 <!---
