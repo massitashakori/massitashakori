@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massitashakori
-- 👀 like opening/reviewing PR
+- 👀 like opening/reviewing PRs
 - 🌱 I’m currently learning Blockchain programming, Solidity
 - 💞️ I’m looking to collaborate more on react and typescript
 - 📫 How to reach me: massi.tashakori@gmail.com
