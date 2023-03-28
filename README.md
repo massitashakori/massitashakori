@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @massitashakori
 - 👀 like opening/reviewing PRs
-- 🌱 I’m currently learning Blockchain programming, Solidity
+- 🌱 I’m currently skilling up on GraphQl and Azure
 - 💞️ I’m looking to collaborate more on react and typescript
-- 📫 How to reach me: massi.tashakori@gmail.com
+- 📫 How to reach me out: massi.tashakori@gmail.com
 
 <!---
 massitashakori/massitashakori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
