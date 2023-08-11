@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @massitashakori
+- 👋 Hi, I’m Massi
 - 👀 like opening/reviewing PRs
 - 🌱 I’m currently skilling up on GraphQl and Azure
-- 💞️ I’m looking to collaborate more on react and typescript
+- 💞️ I’m looking to collaborate more on REACT and Typescript
 - 📫 How to reach me out: massi.tashakori@gmail.com
 
 <!---
